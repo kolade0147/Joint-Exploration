@@ -1,0 +1,31 @@
+body{
+    color: white;
+  
+   text-align: center;
+  font-family: 'orbitron', sans-serif;
+  font-size: 30px;
+  color: #82a5ca;
+  margin: 0;
+}
+.btn{
+  font-size: 20px;
+    padding: 6px 12px;
+  background: white;
+  border: none;
+  color: #82a5ca;
+}
+.underline{
+  border-bottom: 4px solid white;
+}
+#logo{ 
+width: 300px;
+}
+.hero{
+  background-image:  url("https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif");
+    background-size: cover;
+  padding: 40px;
+}
+h1{
+   color: #82a5ca;
+  text-shadow: -4px 4px 3px black;
+}
